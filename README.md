@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="Flixster(Part1).gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app.\
 The biggest challenge was to get familiar with the Kotlin syntax and Android Studio.
 
 ### Open-source libraries used
